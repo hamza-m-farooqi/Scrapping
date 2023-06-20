@@ -1,0 +1,154 @@
+Pizza
+Pasta
+Gelato
+Tacos
+Enchiladas
+Guacamole
+Sushi
+Ramen
+Tempura
+Curry
+Biryani
+Naan
+Peking Duck
+Dim Sum
+Kung Pao Chicken
+Pad Thai
+Green Curry
+Tom Yum Soup
+Croissant
+Escargots
+Coq au Vin
+Paella
+Tapas
+Gazpacho
+Moussaka
+Souvlaki
+Tzatziki
+Hummus
+Falafel
+Shawarma
+Hamburger
+Hot Dog
+Apple Pie
+Feijoada
+Pão de Queijo
+Brigadeiro
+Asado
+Empanadas
+Dulce de Leche
+Fish and Chips
+Roast Beef
+Full English Breakfast
+Bratwurst
+Sauerkraut
+Pretzel
+Kebab
+Baklava
+Turkish Delight
+Pho
+Banh Mi
+Spring Rolls
+Kimchi
+Bibimbap
+Galbi
+Samosa
+Chole Bhature
+Rogan Josh
+Pav Bhaji
+Jerk Chicken
+Ackee and Saltfish
+Arepas
+Ceviche
+Empanadas
+Moqueca
+Pão de Queijo
+Matzah Ball Soup
+Bagel with Lox
+Pierogi
+Goulash
+Schnitzel
+Tiramisu
+Cannoli
+Baklava
+Chocolate Fondue
+Crème Brûlée
+Poutine
+Maple Syrup
+Butter Chicken
+Masala Dosa
+Laksa
+Satay
+Bak Kut Teh
+Rendang
+Nasi Lemak
+Som Tam
+Mango Sticky Rice
+Phở
+Bánh Xèo
+Sashimi
+Gyoza
+Soba
+Kimchi Fried Rice
+Larb
+Tom Kha Gai
+Mee Goreng
+Bakso
+Nasi Goreng
+Bánh Cuốn
+Chicken Adobo
+Lechon
+Sinigang
+Halo-Halo
+Pastel de Nata
+Francesinha
+Bacalhau à Brás
+Feijoada
+Coxinha
+Mate
+Churrasco
+Dulce de Leche
+Milanesa
+Locro
+Arepas
+Ceviche
+Tlayudas
+Chiles en Nogada
+Pozole
+Mole
+Guacamole
+Quesadilla
+Cochinita Pibil
+Tamales
+Churros
+Paella
+Gazpacho
+Patatas Bravas
+Tortilla Española
+Pisto
+Lomo Saltado
+Causa Rellena
+Anticuchos
+Ceviche
+Aji de Gallina
+Picarones
+Salchipapas
+Arancini
+Panna Cotta
+Osso Buco
+Caprese Salad
+Prosciutto
+Gnocchi
+Lasagna
+Cannoli
+Tiramisu
+Köttbullar
+Gravlax
+Smörgåsbord
+Lussekatter
+Surströmming
+Cucumber Salad
+Wiener Schnitzel
+Sauerkraut
+Sacher Torte
+Apfelstrudel

@@ -1,0 +1,6 @@
+venv/*
+__pycache__/*
+DataBase/__pycache__/*
+DataBase/database.db
+DataBase/night_cafe_images.db
+DataBase/open_art_images.db

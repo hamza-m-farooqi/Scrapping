@@ -1,0 +1,11 @@
+Findings About Discord:
+
+How to Navigate to someone elses server?
+* look for foreignObject element, the first one is discord logo, second is your own server 
+  and from index 2 (3rd element) , the 3rd party servers start.
+  
+* To scrap a specific server I will need to find out the index of servers logo in left
+  menu of discord.
+
+* To get a certain channel in server find elements with class "containerDefault-3TQ5YN"
+  
